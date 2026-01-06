@@ -1,0 +1,6 @@
+@Droppy.Backend_HostAddress = http://localhost:5210
+
+GET {{Droppy.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
